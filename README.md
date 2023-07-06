@@ -1,5 +1,19 @@
 # 💫 About Me:
-I'm a passionate full stack blockchain developer with a deep interest in the web3 field. I thrive on exploring cutting-edge technologies and contributing to the open source community. My goal is to leverage my skills and knowledge to create innovative solutions that shape the future of decentralized applications.<br><br>I'm currently focusing on expanding my expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack, which enables me to build robust and scalable applications. My journey in the web3 space has been an exciting one, and I'm always eager to take on new challenges and learn from experienced developers.<br><br>Collaboration and community are at the core of my values. I actively seek opportunities to connect and collaborate with fellow open source enthusiasts who share my passion for building impactful projects. Together, we can make a positive difference in the world by contributing to inspiring repositories and fostering a culture of knowledge-sharing.<br><br>Feel free to reach out to me through my portfolio website at https://abir-dutta-porfolio.netlify.app/. I'm open to discussing potential collaborations, exploring new projects, or simply having a chat about the latest advancements in the web3 space.<br><br>Let's connect, create, and shape the future of technology together!
+🔭 I’m currently working on: Exploring the exciting world of web3 and honing my skills as a full stack blockchain developer. I'm actively involved in building decentralized applications and exploring the potential of blockchain technology.
+
+👯 I’m looking to collaborate on: Open source projects related to web3 and blockchain development. I'm passionate about collaborating with like-minded individuals to create innovative solutions and contribute to impactful repositories.
+
+🤝 I’m looking for help with: Growing as a contributor in the open source community. I'm eager to connect with experienced developers who can provide guidance and mentorship, helping me to enhance my skills and make meaningful contributions to valuable projects.
+
+🌱 I’m currently learning: The MERN stack (MongoDB, Express.js, React.js, Node.js) to strengthen my full stack development skills. Additionally, I'm diving deeper into the intricacies of blockchain technology and exploring the latest advancements in the web3 ecosystem.
+
+💬 Ask me about: Anything related to blockchain development, web3, or my journey in the field. I'm always happy to share my experiences, offer insights, and engage in stimulating discussions about the potential of decentralized applications.
+
+⚡ Fun fact: I'm not just a developer, but also an avid explorer. When I'm not immersed in code, you'll likely find me in gym, or playing football/soccer.
+
+🌟 Look at my [portfolio](https://abir-dutta-porfolio.netlify.app/)
+
+Feel free to connect with me and let's embark on a collaborative journey towards creating impactful projects in the fascinating world of web3!
 
 
 ## 🌐 Socials:
