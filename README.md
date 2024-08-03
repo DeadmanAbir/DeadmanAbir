@@ -1,36 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on: Exploring the exciting world of web3 and honing my skills as a full stack blockchain developer. I'm actively involved in building decentralized applications and exploring the potential of blockchain technology.
+<h1 align="center">Hi 👋, I'm Abir Dutta</h1>
+<h3 align="center">I'm a full-stack developer that loves building products and GEN AI apps that can make developer life easy.</h3>
 
-👯 I’m looking to collaborate on: Open source projects related to web3 and blockchain development. I'm passionate about collaborating with like-minded individuals to create innovative solutions and contribute to impactful repositories.
+- 🔭 I’m currently working on [Agentgenesis](https://www.agentgenesis.dev/)
 
-🤝 I’m looking for help with: Growing as a contributor in the open source community. I'm eager to connect with experienced developers who can provide guidance and mentorship, helping me to enhance my skills and make meaningful contributions to valuable projects.
+- 🌱 I’m currently learning **Gen AI, Langchain, Next JS, Contentlayer**
 
-🌱 I’m currently learning: The MERN stack (MongoDB, Express.js, React.js, Node.js) to strengthen my full stack development skills. Additionally, I'm diving deeper into the intricacies of blockchain technology and exploring the latest advancements in the web3 ecosystem.
+- 👨‍💻 All of my projects are available at [https://abir-dutta-portfolio.vercel.app/projects](https://abir-dutta-portfolio.vercel.app/projects)
 
-💬 Ask me about: Anything related to blockchain development, web3, or my journey in the field. I'm always happy to share my experiences, offer insights, and engage in stimulating discussions about the potential of decentralized applications.
+- 📝 I regularly write articles on [https://deadmanabir.hashnode.dev/](https://deadmanabir.hashnode.dev/)
 
-⚡ Fun fact: I'm not just a developer, but also an avid explorer. When I'm not immersed in code, you'll likely find me in gym, or playing football/soccer.
+- 💬 Ask me about **Next, React, JS, TS, Gen AI, Full stack**
 
-🌟 Look at my [portfolio](https://abir-dutta-porfolio.netlify.app/)
+- 📫 How to reach me **abirdutta90990@gmail.com**
 
-Feel free to connect with me and let's embark on a collaborative journey towards creating impactful projects in the fascinating world of web3!
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qV0lb3VIkXlOW_CdL2XR2Woe5_NSihPx/view?usp=sharing](https://drive.google.com/file/d/1qV0lb3VIkXlOW_CdL2XR2Woe5_NSihPx/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itsdutta99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsdutta99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abir-dutta-408759223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abir-dutta-408759223/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@deadmanabir99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deadmanabir99" height="30" width="40" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-dutta-408759223/) [![HashNode](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://hashnode.com/@DeadmanAbir99) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ItsDutta99) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeadmanAbir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeadmanAbir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadmanAbir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadmanabir&show_icons=true&locale=en&layout=compact" alt="deadmanabir" /></p>
 
-### ✍️ Random Thoughts
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadmanabir&show_icons=true&locale=en" alt="deadmanabir" /></p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=DeadmanAbir&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deadmanabir&" alt="deadmanabir" /></p>
